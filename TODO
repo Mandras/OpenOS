@@ -1,0 +1,13 @@
+5 - Gerer les erreurs lies a la recuperation des valeurs obligatoire du fichier de configuration (bloquant)
+6 - Prevoir un system de valeur par defaut en cas de non instansiation dans le fichier de config
+7 - Revoir comment lancer les modules, Headquarters devrais afficher si oui ou non le module est lance
+8 - De meme, headquarters dois pouvoir appeller un module
+
+Modules :
+
+- RemoteAccess
+- OnlineBackupManager
+- LocalBackupManager
+- CloudService
+- DownloadSection
+- UpdateManager
